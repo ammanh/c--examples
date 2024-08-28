@@ -32,7 +32,7 @@
 //}
 
 
-////EXPLICIT CASTING
+//EXPLICIT CASTING
 //using System;
 
 //namespace MyApplication
@@ -51,23 +51,23 @@
 //    }
 //}
 
-//IMPLICT CASTING
-//using System;
+            //IMPLICT CASTING
+            //using System;
 
-//namespace MyApplication
-//{
-//    class Program
-//    {
-//        static void Main(string[] args)
-//        {
-//            int MyInt = 72;
-//            double MyDouble = MyInt;
-//            Console.WriteLine(MyInt);
-//            Console.WriteLine(MyDouble);
-//        }
-//    }
-//}
-
+            //namespace MyApplication
+            //{
+            //    class Program
+            //    {
+            //        static void Main(string[] args)
+            //        {
+            //            int MyInt = 72;
+            //            double MyDouble = MyInt;
+            //            Console.WriteLine(MyInt);
+            //            Console.WriteLine(MyDouble);
+            //        }
+            //    }
+            //}
+            //
 using System;
 
 namespace MyApplication
