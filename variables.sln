@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string", "string\string.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringSpecialCharacters", "stringSpecialCharacters\stringSpecialCharacters.csproj", "{F5AB6C25-D0C1-4573-8EAF-4040DA6045C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifCondition", "ifCondition\ifCondition.csproj", "{D0E4D7AA-C270-4938-9D83-1EC5C81A4F6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch", "switch\switch.csproj", "{8A6BE19C-0BF0-403C-9A83-A33105E8D985}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{F5AB6C25-D0C1-4573-8EAF-4040DA6045C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5AB6C25-D0C1-4573-8EAF-4040DA6045C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5AB6C25-D0C1-4573-8EAF-4040DA6045C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0E4D7AA-C270-4938-9D83-1EC5C81A4F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E4D7AA-C270-4938-9D83-1EC5C81A4F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E4D7AA-C270-4938-9D83-1EC5C81A4F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E4D7AA-C270-4938-9D83-1EC5C81A4F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6BE19C-0BF0-403C-9A83-A33105E8D985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6BE19C-0BF0-403C-9A83-A33105E8D985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6BE19C-0BF0-403C-9A83-A33105E8D985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6BE19C-0BF0-403C-9A83-A33105E8D985}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
