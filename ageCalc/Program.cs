@@ -38,7 +38,7 @@ namespace MyApplication
             static int CalculateAge(DateTime dateOfBirth)
 
             {
-                //getting today's date
+                                 //getting today's date
                 DateTime today = DateTime.Today;
 
                 int age = today.Year - dateOfBirth.Year;
