@@ -11,13 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "typeCasting", "typeCasting\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ageCalc", "ageCalc\ageCalc.csproj", "{1B35B77C-E833-4977-890D-AA9A109DEC83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string", "string\string.csproj", "{9DD522C4-B48E-4DE4-BC31-BFAC99F75AF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "string", "string\string.csproj", "{9DD522C4-B48E-4DE4-BC31-BFAC99F75AF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringSpecialCharacters", "stringSpecialCharacters\stringSpecialCharacters.csproj", "{F5AB6C25-D0C1-4573-8EAF-4040DA6045C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "stringSpecialCharacters", "stringSpecialCharacters\stringSpecialCharacters.csproj", "{F5AB6C25-D0C1-4573-8EAF-4040DA6045C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifCondition", "ifCondition\ifCondition.csproj", "{D0E4D7AA-C270-4938-9D83-1EC5C81A4F6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ifCondition", "ifCondition\ifCondition.csproj", "{D0E4D7AA-C270-4938-9D83-1EC5C81A4F6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch", "switch\switch.csproj", "{8A6BE19C-0BF0-403C-9A83-A33105E8D985}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "switch", "switch\switch.csproj", "{8A6BE19C-0BF0-403C-9A83-A33105E8D985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loopStatements", "loopStatements\loopStatements.csproj", "{48243951-5F76-42BB-BF64-B1E422E67865}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{8A6BE19C-0BF0-403C-9A83-A33105E8D985}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A6BE19C-0BF0-403C-9A83-A33105E8D985}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A6BE19C-0BF0-403C-9A83-A33105E8D985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48243951-5F76-42BB-BF64-B1E422E67865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48243951-5F76-42BB-BF64-B1E422E67865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48243951-5F76-42BB-BF64-B1E422E67865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48243951-5F76-42BB-BF64-B1E422E67865}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
