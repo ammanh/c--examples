@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ifCondition", "ifCondition\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "switch", "switch\switch.csproj", "{8A6BE19C-0BF0-403C-9A83-A33105E8D985}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loopStatements", "loopStatements\loopStatements.csproj", "{48243951-5F76-42BB-BF64-B1E422E67865}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "loopStatements", "loopStatements\loopStatements.csproj", "{48243951-5F76-42BB-BF64-B1E422E67865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays", "arrays\arrays.csproj", "{75F1E503-AEC6-4A0D-96BC-8EC1EFA339F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{48243951-5F76-42BB-BF64-B1E422E67865}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48243951-5F76-42BB-BF64-B1E422E67865}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48243951-5F76-42BB-BF64-B1E422E67865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F1E503-AEC6-4A0D-96BC-8EC1EFA339F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F1E503-AEC6-4A0D-96BC-8EC1EFA339F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F1E503-AEC6-4A0D-96BC-8EC1EFA339F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F1E503-AEC6-4A0D-96BC-8EC1EFA339F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
