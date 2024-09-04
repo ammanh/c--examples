@@ -12,10 +12,11 @@ namespace myApplication
 
             do
             {
-                int targetNumber = 57;
+                Random Random = new Random();
+                int targetNumber = Random.Next(1, 101);
                 int guess;
 
-                Console.WriteLine("Guess the number i am thinkuing of between 1 and 100!");
+                Console.WriteLine("Guess the number i am thinking of between 1 and 101!");
 
                 do
                 {
